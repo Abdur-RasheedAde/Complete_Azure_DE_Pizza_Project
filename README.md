@@ -1,6 +1,6 @@
 # Complete_Azure_DE_Pizza_Project
 
-![Slide1](https://github.com/Abdur-RasheedAde/Snowflake_Projects/blob/main/SNOWFLAKEHOME.png)
+![Slide1](https://github.com/Abdur-RasheedAde/Complete_Azure_DE_Pizza_Project/blob/main/AzureDEPizzaProject.png)
 
 ##  Introduction
 This is a complete Azure Data Engineering End-to-end project exploring SQL Server, Azure Blob Storage, Azure Data Factory, Databricks and Power BI. The project ingest a csv file into the onprem SQL Database, created a Data pipeline in Azure Data Factory to Extract the data and reload into Azure Blob Storage so as to create an Analystical Report in Databricks and Visualization in Power BI. 
