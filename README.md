@@ -36,14 +36,14 @@ While creating building the visualization, the following KPIs were considered;
 
 ## Report Design and Visualization
 The Report Canvas was designed in Power Point and imported to PowerBI as canvas background. Here is a sample of the slide in Power Point   
-<img src="https://github.com/Abdur-RasheedAde/Complete_Azure_DE_Pizza_Project/blob/main/Slide1.PNG" width=50% height=50%>  
-6 pages were created; Includig each for the Piza_Category (Supreme, Veggie, Classic and Chicken), a consolidated page and an home page. 
+<img src="https://github.com/Abdur-RasheedAde/Complete_Azure_DE_Pizza_Project/blob/main/Slide1.PNG" width=75% height=75%>  
+6 pages were created; Includig each for the Piza_Category (Supreme, Veggie, Classic and Chicken), a consolidated page and an home page. \
 _Home_ page is the landing page while _Consolidated_ has the general report without filter while other pages has filtered reports accroding to their page name.
-On each page, the new card visual is used to hold Total Sales, Quantity and Average_Unit_Price, Line Chart is used for the series analysis while a column and bar chart are adopted for the Pizza_size and Top 5 Pizza Ordered analysis. The last image is the button for page navigation. A sample of the consolidated page is below:
+On each page, the new card visual is used to hold Total Sales, Quantity and Average_Unit_Price, Line Chart is used for the series analysis while a column and bar chart are adopted for the Pizza_size and Top 5 Pizza Ordered analysis. The last image is the button for page navigation. 
 
-The dashbord image is here 👇
+A sample of the consolidated page is below:
 <img src="https://github.com/Abdur-RasheedAde/Complete_Azure_DE_Pizza_Project/blob/main/Homevisual.PNG" width=75% height=75%>  
-Link to the dashboard is here 👉 [Click to view dashboard](https://app.snowflake.com/xelrqqi/zeb17834/#/cricket_match_dashboard-dK2zKZJf9)
+Link to the dashboard is here 👉 [Click to view PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMzgwMjA2YWItNzhmMi00NDU5LTlkMTYtOTA1Y2Y1ODliZTFhIiwidCI6IjMyNzk2YmUyLTYwZmItNGRhMi04ZDI2LTA2ZTU5MzhlNmU2YiIsImMiOjh9)
 
 ## Conclusions 
 1. Azure Data Synapse is a comprehensive Azure service that unifies all Azure data services in one space including databricks from ingestion (ADF) to data warehousing and visualizatio (PowerBI)
