@@ -35,7 +35,7 @@ While creating building the visualization, the following KPIs were considered;
 6. Top 5 Order pizza
 
 ## Report Design and Visualization
-The Report Canvas was designed in Power Point and imported to PowerBI as canvas background. Here is a sample of the slide in Power Point   
+The Report Canvas was designed in Power Point and imported to PowerBI as canvas background. Here is a sample of the slide in Power Point  
 <img src="https://github.com/Abdur-RasheedAde/Complete_Azure_DE_Pizza_Project/blob/main/Slide1.PNG" width=75% height=75%>  
 6 pages were created; Includig each for the Piza_Category (Supreme, Veggie, Classic and Chicken), a consolidated page and an home page. \
 _Home_ page is the landing page while _Consolidated_ has the general report without filter while other pages has filtered reports accroding to their page name.
